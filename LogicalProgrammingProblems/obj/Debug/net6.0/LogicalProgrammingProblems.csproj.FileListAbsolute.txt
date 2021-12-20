@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\bin\Debug\net6.0\LogicalProgrammingProblems.exe
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\bin\Debug\net6.0\LogicalProgrammingProblems.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\bin\Debug\net6.0\LogicalProgrammingProblems.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\bin\Debug\net6.0\LogicalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\bin\Debug\net6.0\ref\LogicalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\bin\Debug\net6.0\LogicalProgrammingProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\ref\LogicalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\LogicalProgrammingProblems\obj\Debug\net6.0\LogicalProgrammingProblems.genruntimeconfig.cache
