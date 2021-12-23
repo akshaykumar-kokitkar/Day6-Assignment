@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\bin\Debug\net6.0\StopWatchProgram.exe
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\bin\Debug\net6.0\StopWatchProgram.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\bin\Debug\net6.0\StopWatchProgram.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\bin\Debug\net6.0\StopWatchProgram.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\bin\Debug\net6.0\ref\StopWatchProgram.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\bin\Debug\net6.0\StopWatchProgram.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\ref\StopWatchProgram.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\StopWatchProgram\obj\Debug\net6.0\StopWatchProgram.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\bin\Debug\net6.0\VendingMacineProblem.exe
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\bin\Debug\net6.0\VendingMacineProblem.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\bin\Debug\net6.0\VendingMacineProblem.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\bin\Debug\net6.0\VendingMacineProblem.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\bin\Debug\net6.0\ref\VendingMacineProblem.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\bin\Debug\net6.0\VendingMacineProblem.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\ref\VendingMacineProblem.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\VendingMacineProblem\obj\Debug\net6.0\VendingMacineProblem.genruntimeconfig.cache

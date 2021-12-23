@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\bin\Debug\net6.0\NUnitTestingProblems.exe
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\bin\Debug\net6.0\NUnitTestingProblems.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\bin\Debug\net6.0\NUnitTestingProblems.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\bin\Debug\net6.0\NUnitTestingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\bin\Debug\net6.0\ref\NUnitTestingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\bin\Debug\net6.0\NUnitTestingProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\ref\NUnitTestingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LogicalProgrammingProblems\NUnitTestingProblems\obj\Debug\net6.0\NUnitTestingProblems.genruntimeconfig.cache

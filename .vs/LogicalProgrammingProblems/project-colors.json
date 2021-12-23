@@ -5,7 +5,22 @@
       "ProjectGuid": "95449177-c2e4-4ebd-9308-49bde4b494d1",
       "DisplayName": "LogicalProgrammingProblems",
       "ColorIndex": 0
+    },
+    "d951b9d4-3921-4ef1-bb19-afd59b2476a9": {
+      "ProjectGuid": "d951b9d4-3921-4ef1-bb19-afd59b2476a9",
+      "DisplayName": "StopWatchProgram",
+      "ColorIndex": 1
+    },
+    "27fe8064-2aed-4fb0-b3bd-da14bea3a908": {
+      "ProjectGuid": "27fe8064-2aed-4fb0-b3bd-da14bea3a908",
+      "DisplayName": "NUnitTestingProblems",
+      "ColorIndex": 2
+    },
+    "d2324559-abd4-45a0-abb8-e5e2faa98ba1": {
+      "ProjectGuid": "d2324559-abd4-45a0-abb8-e5e2faa98ba1",
+      "DisplayName": "VendingMacineProblem",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

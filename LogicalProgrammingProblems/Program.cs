@@ -6,10 +6,10 @@
         {
             //Fibonacci series
 
-            /*Console.WriteLine("Enter number to print fibonacci series");
+            Console.WriteLine("Enter number to print fibonacci series");
             int number = Convert.ToInt32(Console.ReadLine());
             FibonacciSeries p1 = new FibonacciSeries(number);
-            p1.FibonacciMethod();*/
+            p1.FibonacciMethod();
 
             //Perfect Number
 
@@ -31,6 +31,9 @@
             int number = Convert.ToInt32(Console.ReadLine());
             ReverseNumber p4 = new ReverseNumber(number);
             p4.ReverseANumber();*/
+
+            //Stopwatch
+
 
         }
     }
